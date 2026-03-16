@@ -1,0 +1,7 @@
+{
+  "latestVersion": "1.0.55",
+  "forceUpdate": false,
+  "updateUrlAndroid": "https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME",
+  "updateUrlIOS": "https://apps.apple.com/app/idYOUR_APP_ID",
+  "updateMessage": "Dear Chef, we have squashed some bugs and added new features. Update now for the best cooking experience!"
+}
